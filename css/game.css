@@ -1,0 +1,36 @@
+.game-field {
+  background-color: orange;
+  min-height: 10vh;
+  max-width: 10vh;
+  margin: 1px 1px 1px 1px;
+  line-height: 10vh;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.miss {
+  background-color: red;
+}
+
+#button-start, #button-reload {
+	margin: auto;
+}
+.container {
+	max-width: 70vh;
+}
+h1, h2, h3 {
+	text-align: center;
+	width: 100%
+}
+h2 {
+	font-size: 18px;
+}
+h3 {
+	font-size: 14px;
+	color: #ff0000;
+}
